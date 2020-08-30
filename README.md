@@ -13,7 +13,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Twitter: https://twitter.com/katfukui
-- Personal site: https://katfukui.com/
+- Personal site: https://tinykat.cafe
 - Cosplay/fashion IG: https://instagram.com/_nekopin
 
 ## Oakland orgs to donate to #BLM
