@@ -1,25 +1,19 @@
-# Kat Fukui #BlackLivesMatter
-Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
+</p>
 
-## Latest writing
-🔪 [On all that fuckery](https://www.tinykat.cafe/on-all-that-fuckery)
+Hi, I'm Kat (she/her)—a senior product designer at GitHub working on open source tools. Previously worked on GitHub Sponsors and Community & Safety. 💕 I care about redistributing power, inclusive design, digital communities, and mindfulness. 
 
-## My values
-💖 Safety and trust<br>
-🌟 Expression as authentic self<br>
-🍏 Beginner's mindset and curiosity<br>
-🙌 Shared norms<br>
-🚀 Elevate the underrepresented
-
-## How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+## 📌 Pinned
+| | |
+| :--- | :--- |
+| 💖 [Magical Girl Lifestyle newsletter](https://magicalgirl.substack.com) | 🔪 [On all that fuckery](https://www.tinykat.cafe/on-all-that-fuckery) |
 
 ## Get in touch
 - Twitter: https://twitter.com/katfukui
-- Personal site: https://tinykat.cafe
-- Cosplay/fashion IG: https://instagram.com/_nekopin
+- Blog: https://tinykat.cafe
 
-## Oakland orgs to donate to #BLM
+## Oakland orgs to donate to #BlackLivesMatter
 - [People's Breakfast Oakland](https://www.hellablackpod.com/pbo)
 - [Black Earth Farms](https://www.blackearthfarms.com/)
 - [Anti Police Terror Project](https://www.antipoliceterrorproject.org/)
